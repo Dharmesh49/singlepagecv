@@ -1,0 +1,19 @@
+.DharmeshBorder {
+    border: 2px solid black;
+    width: 60%;
+    padding: 20px;
+    margin: 20px;
+}
+
+.center-container {
+    display: flex;
+    justify-content: center;  /* Center horizontally */
+    align-items: center;      /* Center vertically */
+    height: 100vh;            /* Full viewport height */
+}
+h3{
+    color: rgb(124, 255, 84);
+}
+.company{
+    color: rgb(12, 206, 255);
+}
